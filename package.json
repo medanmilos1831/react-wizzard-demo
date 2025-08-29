@@ -14,7 +14,7 @@
     "@scoped-observer/react-state-machine": "^3.0.7",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-wizzard": "^2.0.0"
+    "react-wizzard": "^2.0.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.33.0",
